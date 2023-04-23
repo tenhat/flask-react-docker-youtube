@@ -1,0 +1,2 @@
+FROM NODE:14-slim
+
